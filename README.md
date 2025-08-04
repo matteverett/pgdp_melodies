@@ -102,8 +102,39 @@ Please send me a PM if you would like to claim it before it enters the PP pool!
 ### General notes ###
 
 ### Other languages ###
+* Greek
 
 ### Illustrations ###
+* [ ] frontcover.jpg
+* [ ] backcover.jpg
+* [ ] f003-title.jpg
+* [ ] p001-i.jpg
+* [ ] p023-i.jpg
+* [ ] p025-i.jpg
+* [ ] p048-i.jpg
+* [ ] p049-i.jpg
+* [ ] p073-i.jpg
+* [ ] p075-i.jpg
+* [ ] p101-i.jpg
+* [ ] p103-i.jpg
+* [ ] p128-i.jpg
+* [ ] p129-i.jpg
+* [ ] p155-i.jpg
+* [ ] p157-i.jpg
+* [ ] p181-i.jpg
+* [ ] p183-i.jpg
+* [ ] p209-i.jpg
+* [ ] p210-i.jpg
+* [ ] p212-i.jpg
+* [ ] p216-i.jpg
+* [ ] p218-i.jpg
+* [ ] p233-i.jpg
+* [ ] p234-i.jpg
+* [ ] p237-i.jpg
+* [ ] p238-i.jpg
+* [ ] p242-i.jpg
+* [ ] p246-i.jpg
+* [ ] p248-i.jpg
 
 ### Proofer's notes ###
 
